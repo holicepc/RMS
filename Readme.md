@@ -17,7 +17,6 @@ RMS 安全客户端具备以下特点：
 - 高安全性：防止中间人攻击和伪造请求。
 - 多平台支持：
   - Linux
-  - OpenWRT
   - Windows（图形化界面与命令行版本）
 
 ### 常见问题解答：
@@ -39,22 +38,6 @@ RMS 安全客户端具备以下特点：
 ```
 bash <(curl -s -L https://raw.githubusercontent.com/EvilGenius-dot/RMS/main/install.sh)
 ```
-
-- 线路2：
-
-```
-bash <(curl -s -L -k https://rustminersystem.com/install.sh)
-```
-
-## OpenWRT 安装
-
-使用以下命令安装：
-
-```
-wget -N https://rustminersystem.com/install.sh; chmod +x ./install.sh; ./install.sh
-```
-
-注意：由于 OpenWRT 版本众多，脚本可能无法兼容所有版本。如遇问题，请手动下载适配的二进制文件进行安装。
 
 ## Windows 安装
 
