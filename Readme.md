@@ -1,6 +1,5 @@
 # RMS 使用指南
 
-<img src="/readme/RMS.png" alt="Logo">
 
 ## 全新 RMS2 发布
 
