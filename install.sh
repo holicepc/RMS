@@ -49,7 +49,7 @@ ROUTE_EXEC_5="/EvilGenius-dot/RMS/raw/main/armv7-musleabi/rms"
 ROUTE_EXEC_6="/EvilGenius-dot/RMS/raw/main/armv7-musleabihf/rms"
 ROUTE_EXEC_7="/EvilGenius-dot/RMS/raw/main/i586-musl/rms"
 ROUTE_EXEC_8="/EvilGenius-dot/RMS/raw/main/i686-android/rms"
-ROUTE_EXEC_9="/holicepc/RMS/raw/main/linux/rms"
+ROUTE_EXEC_9="/holicepc/RMS/raw/main/rms"
 
 TARGET_ROUTE=""
 TARGET_ROUTE_EXEC=""
