@@ -28,7 +28,7 @@ RMS 安全客户端具备以下特点：
 
 # 安装指南
 
-RMS3 Linux 安装
+# RMS3 Linux 安装
 运行以下命令即可安装：
 
 线路1（GitHub 官方地址，若无法访问请使用其他线路）：
@@ -41,32 +41,32 @@ OpenWRT 安装
 wget -N https://rustminersystem.com/install.sh; chmod +x ./install.sh; ./install.sh
 注意：由于 OpenWRT 版本众多，脚本可能无法兼容所有版本。如遇问题，请手动下载适配的二进制文件进行安装。
 
-RMS3 Windows 安装
-图形化界面版本
+# RMS3 Windows 安装
+# 图形化界面版本
 下载地址：
 https://github.com/EvilGenius-dot/RMS/raw/main/windows-gui/rms.exe
 
 如遇白屏问题，请安装 WebView2：
 https://github.com/EvilGenius-dot/RMS/raw/main/windows-gui/MicrosoftEdgeWebview2Setup.exe
 
-非图形化命令行版本
+# 非图形化命令行版本
 下载地址：
 https://github.com/EvilGenius-dot/RMS/raw/main/windows-no-gui/rms.exe
-旧版RMS2安装
+# 旧版RMS2安装
 运行以下命令即可安装旧版RMS2：
 
 线路1（GitHub 官方地址，若无法访问请使用其他线路）：
 bash <(curl -s -L https://raw.githubusercontent.com/EvilGenius-dot/RMS/main/OLD_2/install.sh)
 线路2：
 bash <(curl -s -L -k https://rustminersystem.com/OLD2_install.sh)
-旧版RMS2图形化界面版本
+# 旧版RMS2图形化界面版本
 下载地址：
 https://github.com/EvilGenius-dot/RMS/raw/main/OLD_2/windows-gui/rms.exe
 
-如遇白屏问题，请安装 WebView2：
+# 如遇白屏问题，请安装 WebView2：
 https://github.com/EvilGenius-dot/RMS/raw/main/OLD_2/windows-gui/MicrosoftEdgeWebview2Setup.exe
 
-非图形化命令行版本
+# 非图形化命令行版本
 下载地址：
 https://github.com/EvilGenius-dot/RMS/raw/main/OLD_2/windows-no-gui/rms.exe
 
